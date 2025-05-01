@@ -1,0 +1,18 @@
+@APItest_HostAddress = https://localhost:7036
+
+GET {{APItest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{APItest_HostAddress}}/weatherforecast
+
+###
+
+GET {{APItest_HostAddress}}/weatherforecast
+
+###
+
+GET {{APItest_HostAddress}}/api/testing
+
+###

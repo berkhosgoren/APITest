@@ -1,0 +1,13 @@
+# Ignore build and temp files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Local secrets/configs
+appsettings.Development.json
+
+# Optional: uploads, logs, etc.
+Uploads/

@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\entities\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\entities\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|c:\\users\\berk\\desktop\\webapiprojects\\apitest\\apitest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D7BD54-CB7A-45F1-872B-CF85D624C1CE}|APItest\\APItest.csproj|solutionrelative:apitest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Migrations\\20240920104052_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APItest\\Migrations\\20240920104052_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240920104052_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Migrations\\20240920104052_Initial.cs",
+              "RelativeDocumentMoniker": "APItest\\Migrations\\20240920104052_Initial.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Migrations\\20240920104052_Initial.cs",
+              "RelativeToolTip": "APItest\\Migrations\\20240920104052_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:40:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestingController.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Controllers\\TestingController.cs",
+              "RelativeDocumentMoniker": "APItest\\Controllers\\TestingController.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Controllers\\TestingController.cs",
+              "RelativeToolTip": "APItest\\Controllers\\TestingController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwJIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:11:09.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Testing.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Entities\\Testing.cs",
+              "RelativeDocumentMoniker": "APItest\\Entities\\Testing.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Entities\\Testing.cs",
+              "RelativeToolTip": "APItest\\Entities\\Testing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:06:45.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "APItest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\WeatherForecast.cs",
+              "RelativeToolTip": "APItest\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:01:14.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Program.cs",
+              "RelativeDocumentMoniker": "APItest\\Program.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Program.cs",
+              "RelativeToolTip": "APItest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:14:32.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\appsettings.json",
+              "RelativeDocumentMoniker": "APItest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\appsettings.json",
+              "RelativeToolTip": "APItest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T11:13:41.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "APItest\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Data\\DataContext.cs",
+              "RelativeToolTip": "APItest\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:38:55.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APItest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Berk\\Desktop\\WebAPIProjects\\APItest\\APItest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APItest\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T10:15:26.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
